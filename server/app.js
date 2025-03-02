@@ -35,7 +35,7 @@ app.all("*",async(req,res,next)=>{
         if(adminResult.err!=null || adminResult.rows.length == 0){
             res.send({
                 code:403,
-                msg:"请登录"
+                msg:"请登录",
             });
             return;
         }else next();
