@@ -1,4 +1,4 @@
-# Personal Blog Project :bulb
+# Personal Blog Project :bulb:
 ## Introduction
 It is a personal blog project which written for exercising node.js and vue.js.
 ## Techinique Usage
